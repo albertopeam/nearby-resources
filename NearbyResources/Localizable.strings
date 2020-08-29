@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  NearbyResources
+
+  Created by Alberto Penas Amor on 27/08/2020.
+  Copyright © 2020 com.github.albertopeam. All rights reserved.
+*/
+
+"api_error" = "Something went wrong, try again";
+"empty_result" = "No resources at this location";

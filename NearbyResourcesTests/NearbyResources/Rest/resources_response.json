@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Rossio",
+        "companyZoneId": 1,
+        "lat": 38.71497,
+        "lon": -9.1424
+    },
+    {
+        "id": "2",
+        "name": "Santa Apolónia",
+        "companyZoneId": 2,
+        "lat": 38.71381
+    },
+    {
+        "id": "3",
+        "name": "ROSSIO",
+        "companyZoneId": 3,
+        "lon": -9.13796
+    },
+    {
+        "id": "4",
+        "name": "MARTIM MONIZ",
+        "companyZoneId": 4
+    }
+]
