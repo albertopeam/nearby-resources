@@ -233,6 +233,7 @@
 			children = (
 				D3A82A0224F843110083F389 /* NearbyViewModel.swift */,
 				D3AC899724F511BB0023C8CE /* NearbyResourcesViewModel.swift */,
+				D3A82A0624F843940083F389 /* NearbyUseCase.swift */,
 				D3A82A0A24F844090083F389 /* Model */,
 			);
 			path = Presentation;
@@ -241,7 +242,6 @@
 		D3A829FE24F8425F0083F389 /* UseCase */ = {
 			isa = PBXGroup;
 			children = (
-				D3A82A0624F843940083F389 /* NearbyUseCase.swift */,
 				D3AC899924F511CF0023C8CE /* NearbyResourcesUseCase.swift */,
 				D3A829FF24F842830083F389 /* ApiRest.swift */,
 				D3A82A0B24F8441A0083F389 /* Model */,
